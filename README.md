@@ -2,7 +2,6 @@
 my github website
 
 
-![Cat](cat-coin.jpeg)
 
 <img src="cat-coin.jpeg"
      alt="cat and coin"
