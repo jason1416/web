@@ -3,6 +3,6 @@ my github website
 
 
 
-![cat and coin]("cat-coin.jpeg")
+![cat and coin](cat-coin.jpeg)
  
      
